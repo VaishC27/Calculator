@@ -1,9 +1,9 @@
 # Calculator
 This is a very beginner level python code for building calculator using functions
-###Logo:
+##Logo:
  The program begins by displaying an ASCII art logo representing a calculator, adding a visual element to the user interface.
 
-###Arithmetic Functions:
+##Arithmetic Functions:
  Four functions are defined to perform basic arithmetic operations:
 
  Addition (add(a, b)): Returns the sum of a and b.
@@ -11,10 +11,10 @@ This is a very beginner level python code for building calculator using function
  Multiplication (mul(a, b)): Returns the product of a and b.
  Division (div(a, b)): Returns the quotient of a divided by b.
 
-###Operations Dictionary:
+##Operations Dictionary:
  A dictionary operations maps arithmetic symbols to their corresponding functions, facilitating the selection of operations by users.
 
-###The Calculator Function:
+##The Calculator Function:
  The core functionality is encapsulated in the calculator() function, which facilitates an interactive arithmetic session:
 
  Input First Number: Prompts the user to input the first number.
