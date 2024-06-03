@@ -1,5 +1,6 @@
 # Calculator
 This is a very beginner level python code for building calculator using functions
+
 ##Logo:
  The program begins by displaying an ASCII art logo representing a calculator, adding a visual element to the user interface.
 
